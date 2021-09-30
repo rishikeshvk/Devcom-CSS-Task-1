@@ -14,7 +14,7 @@ You've been provided with some raw HTML for the homepage of an imaginery Devcom 
 - Make necessary changes in [index.html](https://github.com/rishikeshvk/Devcom-CSS-Task-1/blob/26234e4a7ecf38e4e0f0f7a8263d1e924fa09249/CSS%20Task/index.html) and [style.css](https://github.com/rishikeshvk/Devcom-CSS-Task-1/blob/26234e4a7ecf38e4e0f0f7a8263d1e924fa09249/CSS%20Task/style.css) in order to match the given mockup.
 - Start by forking this repo and making a copy of them on your local computer.
 - Refer to this artcle to know about forking a repo in Github : https://docs.github.com/en/get-started/quickstart/fork-a-repo
-- Keep the class names given in html file intact.
+- Keep the id and class names given in html file intact.
 - Feel free to reach out to the mentors if you are stuck and want to ask for help.:nerd_face:
 
 ![mockup](https://github.com/rishikeshvk/Devcom-CSS-Task-1/blob/ae12a7a2824f2a18b27ff64d5a8ff831a910d06f/Mockup.png)
