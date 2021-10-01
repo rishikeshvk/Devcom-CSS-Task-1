@@ -19,4 +19,8 @@ You've been provided with some raw HTML for the homepage of an imaginery Devcom 
 
 ![mockup](https://github.com/rishikeshvk/Devcom-CSS-Task-1/blob/ae12a7a2824f2a18b27ff64d5a8ff831a910d06f/Mockup.png)
 
+## Submission
+
+**Submit your GitHub Repository link [here](https://docs.google.com/forms/d/e/1FAIpQLSdbskTPDoWLf5mI3qR6ibW4v5Kuz_MAHd2XuB49aulY8uqp7Q/viewform) before 12 Nov 11:59 PM.** 
+
 # *Happy Learning* :high_brightness:
