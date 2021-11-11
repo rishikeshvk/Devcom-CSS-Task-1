@@ -21,6 +21,6 @@ You've been provided with some raw HTML for the homepage of an imaginery Devcom 
 
 ## Submission
 
-**Submit your GitHub Repository link [here](https://docs.google.com/forms/d/e/1FAIpQLSdbskTPDoWLf5mI3qR6ibW4v5Kuz_MAHd2XuB49aulY8uqp7Q/viewform) before 12 Nov 11:59 PM.** 
+**Submit your GitHub Repository link [here](https://docs.google.com/forms/d/e/1FAIpQLSdbskTPDoWLf5mI3qR6ibW4v5Kuz_MAHd2XuB49aulY8uqp7Q/viewform) before 18 Nov 11:59 PM.** 
 
 # *Happy Learning* :high_brightness:
